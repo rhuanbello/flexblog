@@ -49,3 +49,44 @@ img {
 .superinfo a {
     color: #fff;
 }
+
+/* Menu */
+
+.menu-bg {
+    background: #2c70ff;
+}
+
+.menu {
+    max-width: 960px; /* Tamanho Máximo do Container */
+    margin: 0 auto;  /* Centralizando Itens no Container */
+    padding: 15px 0; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu a {
+    color: #fff;
+}
+
+.menu-logo a { 
+    font-size: 2.25em; /* 36px / 6 = 2.25*/
+    font-weight: bold;
+    margin: 0 10px; /* Distância mínima entre itens (gutter) */
+}
+
+.menu-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu-nav a {
+    font-size: 1.25em;
+    display: block;
+    padding: 10px;
+}
+
+.menu-nav a:hover {
+    color: #122ab2;
+}
