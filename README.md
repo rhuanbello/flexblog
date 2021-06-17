@@ -41,11 +41,9 @@ Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/flexbl
 
 Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/flexblog/).
 
-📱 **Versão para Smartphone e para Ipad**
+📱 **Versão para Smartphone**
 
-<img src="https://i.imgur.com/AFlnrZl.png" alt="https://i.imgur.com/AFlnrZl.png" style="zoom: 50%;" />
-
-<img src="https://i.imgur.com/vHLvDZ0.png" alt="https://i.imgur.com/vHLvDZ0.png" style="zoom: 25%;" />
+<img src="https://i.imgur.com/AFlnrZl.png" alt="https://i.imgur.com/AFlnrZl.png" style="zoom: 50%;" /> 
 
 Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/flexblog/).
 
