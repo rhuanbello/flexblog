@@ -25,3 +25,27 @@ img {
 * {
     box-sizing: border-box;
 }
+
+/* Super Info */
+
+.superinfo-bg {
+    background: #122ab2;
+    color: #fff;
+}
+
+.superinfo {
+    max-width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}
+
+.superinfo p, .superinfo a{
+    margin: 0 10px 10px 10px;
+}
+
+.superinfo a {
+    color: #fff;
+}
